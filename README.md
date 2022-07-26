@@ -4,6 +4,8 @@
 - OpenMesh (pip install openmesh)
 - Numpy-STL (pip install numpy-stl)
 
+Run the script 'skirting.py' in directory with 'Part.stl'; the output, 'input_skirted.stl', will be written to the same dir.
+
 <p align="center">-----</p>
 
 # CompGeo_Add_Skirt
