@@ -1,3 +1,11 @@
+## Solution Requirements
+- PyGLM (pip install pyglm)
+- NumPy (pip install numpy)
+- OpenMesh (pip install openmesh)
+- Numpy-STL (pip install numpy-stl)
+
+<p align="center">-----</p>
+
 # CompGeo_Add_Skirt
 ## Objective
 Modify a shape, a 3D geometry, so that it can be "formed" using our Dual Sided Incremental Forming (DSIF) process. 
